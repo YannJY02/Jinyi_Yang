@@ -1,4 +1,4 @@
-**# Jinyi_Yang
+# Jinyi_Yang
 about myself.
 
 ## 👋 Hi there, I'm Jinyi Yang!
